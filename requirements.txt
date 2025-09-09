@@ -1,0 +1,15 @@
+opencv-python
+face-recognition
+motor
+pymongo
+numpy
+pandas
+Pillow
+pydantic
+python-dateutil
+PyYAML
+asyncio-mqtt
+aiofiles
+scikit-learn
+matplotlib
+seaborn
