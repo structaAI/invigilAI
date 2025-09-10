@@ -1,0 +1,18 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: abdul-haseeb
+  1: adil khan
+  2: ali-rehman
+  3: ali-sher-02
+  4: azan-ali
+  5: hassan-raza
+  6: husnain-hafeez
+  7: mubsair qazum
+  8: muhammad-qasim
+  9: samiullah
+  10: syed-ali-sher
+  11: umer-javed
+  12: waleed-khan
